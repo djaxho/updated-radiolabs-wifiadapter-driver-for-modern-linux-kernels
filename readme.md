@@ -1,6 +1,7 @@
-===============================================================================
-		Software Package - Component
-===============================================================================
+# Software Package - Component
+
+	* I updated this driver to play nicely with more modern kernels of linux (I have not tested from which version it is necessary). The original provided by Radiolabs (in a zip) did not work with Ubuntu 16+ Hopefully this will help someone - Danny Jackson
+
 	1. ReleaseNotes.pdf
 
 	2. document/
